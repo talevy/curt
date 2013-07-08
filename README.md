@@ -17,6 +17,7 @@ Dependencies
 * subversion
 * git
 * libtool
+* libev-dev
 
 How to run.
 -----------
