@@ -10,6 +10,14 @@ curt
 2. [http-parser](https://github.com/joyent/http-parser)
 3. [webserver-libev-httpparser](https://github.com/dexgeh/webserver-libev-httpparser)
 
+Dependencies
+------------
+* automake
+* pkg-config
+* subversion
+* git
+* libtool
+
 How to run.
 -----------
 
